@@ -7,6 +7,7 @@ Página de suporte e arquivo `app-ads.txt` do **AstroQuiz Challenge**.
 | `index.html` | página de suporte — é a URL declarada na App Store |
 | `app-ads.txt` | verificação do AdMob |
 | `astroquiz/index.html` | redireciona para a raiz (a App Store ainda aponta para cá) |
+| `baixar/index.html` | link único de download (`playastroquiz.com/baixar`): manda o celular para a loja certa e mostra os dois botões no computador. `?o=instagram` marca a origem na Play |
 
 ---
 
